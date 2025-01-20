@@ -1,26 +1,29 @@
 # Clash Verge
 
-[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge\_1.7.7\_x64-setup.exe)，是代理工具Clash内核的GUI图形客户端，支持Windows、Linux、macOS系统，分流规则功能强大且支持多种代理协议。
+[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_x64-setup.exe) 是代理工具 Clash 内核的 GUI 图形客户端，支持 Windows、Linux、macOS 系统，分流规则功能强大且支持多种代理协议。
 
-***
+## 系统要求
 
-**注意**：
+- Windows 7 及以上（32/64-bit）
+- Windows PC / Tablet
 
-* `系统要求：Windows 7 及以上（32/64-bit）`
-* `设备要求：Windows PC / Tablet`
+## ⚠️ 首次运行提示
+>
+> Windows 10 用户首次运行时可能会看到安全提示，请按以下步骤操作：
+>
+> 1. 点击「更多信息」
+> 2. 点击「仍要运行」
 
-> ⚠️ 注意：Windows 10 首次运行可能会提示被阻止，点击「更多信息」 - 「仍要运行」 ![图一](clash-verge-01.jpg)![图二](clash-verge-02.jpg)
+## 使用教程
 
-***
-
-### 使用教程：
-
-**导入配置**
+### 1. 导入配置
 
 ![图三](clash-verge-03.png) ![图四](clash-verge-04.png) ![图五](clash-verge-05.png) ![图六](clash-verge-06.jpg)
 
-**更新配置**
+### 2. 更新配置
 
-## ![图七](clash-verge-07.png)
+![图七](clash-verge-07.png)
 
-最新更新于 2024.11.16
+## 更新记录
+
+*最后更新: 2024年11月16日*

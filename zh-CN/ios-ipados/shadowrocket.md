@@ -1,22 +1,33 @@
-# Shadowrocket
+# Shadowrocket - 轻量级网络工具
 
-[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)，又名小火箭是iOS系统下的代理软件客户端，同样也适用于iPad，功能强大且支持多种代理协议，如SS、SSR、V2Ray、Xray、Trojan等代理协议。
+Shadowrocket（小火箭）是一款轻量级但功能强大的网络工具，以其简洁的界面和稳定的性能著称。
 
----
-**注意**：
+## 功能特点
 
-- `系统要求：iOS 9.0 及以上`
-- `设备要求：iPhone / iPad`
-> ⚠️ 注意：
+- 多协议支持：SS、SSR、V2Ray、Xray、Trojan
+- 简洁直观的用户界面
+- 规则分流系统
+- 支持脚本功能
+- 较低的资源占用
+
+## 基本信息
+
+- **系统要求**：iOS 9.0 或更高版本
+- **兼容设备**：iPhone / iPad
+
+> ⚠️ **注意事项**
 >
-> 此应用已在中国大陆AppStore下架，请自行准备非中国大陆 Apple ID 下载
----
+> - 该应用在中国大陆 App Store 未上架
+> - 需要非中国大陆 Apple ID 下载
 
-### 使用教程：
-##### 导入配置
+## 使用教程
+
+### 配置导入
+
 ![图一](shadowrocket-01.png)
 ![图二](shadowrocket-02.png)
 ![图三](shadowrocket-03.png)
 ![图四](shadowrocket-04.png)
 ---
+
 最新更新于 2024.11.17

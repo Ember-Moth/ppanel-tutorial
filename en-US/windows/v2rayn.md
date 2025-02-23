@@ -1,6 +1,6 @@
 # v2rayN for Windows
 
-[v2rayN](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) is a graphical client for V2Ray on Windows systems. It supports Windows, Linux, and macOS operating systems, and multiple proxy protocols (SS, SSR, Socks, Snell, V2Ray, Trojan, etc.).
+[v2rayN](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) is a graphical client for V2Ray on Windows systems. It supports multiple proxy protocols (SS, SSR, Socks, Snell, V2Ray, Trojan, etc.).
 
 ## System Requirements
 

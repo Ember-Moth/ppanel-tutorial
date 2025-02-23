@@ -8,7 +8,7 @@ platform: windows
 
 # v2rayN for Windows
 
-[v2rayN](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) 是 V2Ray 在 Windows 系统上的图形客户端，支持 Windows、Linux、macOS 三大系统，支持多种代理协议（SS、SSR、Socks、Snell、V2Ray、Trojan 等）。
+[v2rayN](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) 是在 Windows 系统上的图形客户端，支持多种代理协议（SS、SSR、Socks、Snell、V2Ray、Trojan 等）。
 
 ## 系统要求
 

@@ -84,15 +84,15 @@ zh-CN:
         path: zh-CN/windows/v2rayn.md
         icon: zh-CN/windows/v2rayN.png
         updated_at: 2025-02-23
-      - title: Clash Verge for Windows
+      - title: Clash Verge
         path: zh-CN/windows/clash-verge.md
         icon: zh-CN/windows/clash.png
         updated_at: 2024-11-16
-      - title: Clash for Windows for Windows
+      - title: Clash for Windows
         path: zh-CN/windows/clash-for-windows.md
         icon: zh-CN/windows/clash.png
         updated_at: 2024-11-16
-      - title: Netch (游戏/特殊) for Windows
+      - title: Netch (游戏/特殊)
         path: zh-CN/windows/netch.md
         icon: zh-CN/windows/netch.png
         updated_at: 2024-11-16

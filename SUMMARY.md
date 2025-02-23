@@ -3,7 +3,7 @@ navigation:
   zh-CN:
     - title: Windows
       path: zh-CN/windows/README.md
-      items:
+      subItems:
         - title: v2rayN for Windows
           path: zh-CN/windows/v2rayn.md
           icon: v2rayN.png
@@ -23,7 +23,7 @@ navigation:
   en-US:
     - title: Windows
       path: en-US/windows/README.md
-      items:
+      subItems:
         - title: Clash Verge
           path: en-US/windows/clash-verge.md
           icon: clash-verge.png

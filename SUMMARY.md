@@ -1,3 +1,45 @@
+---
+navigation:
+  zh-CN:
+    Windows:
+      - name: v2rayN
+        title: v2rayN for Windows
+        path: zh-CN/windows/v2rayn.md
+        icon: v2rayN.png
+        updateDate: 2025-02-23
+      - name: Clash Verge
+        title: Clash Verge for Windows
+        path: zh-CN/windows/clash-verge.md
+        icon: clash-verge.png
+        updateDate: 2025-02-23
+      - name: Clash for Windows
+        title: Clash for Windows for Windows
+        path: zh-CN/windows/clash-for-windows.md
+        icon: clash-for-windows.png
+        updateDate: 2025-02-23
+      - name: Netch (Game/Special)
+        title: Netch (Game/Special) for Windows
+        path: zh-CN/windows/netch.md
+        icon: netch.png
+        updateDate: 2025-02-23
+  en-US:
+    Windows:
+      - name: Clash Verge
+        title: Clash Verge for Windows
+        path: en-US/windows/clash-verge.md
+        icon: clash-verge.png
+        updateDate: 2025-02-23
+      - name: Clash for Windows
+        title: Clash for Windows for Windows
+        path: en-US/windows/clash-for-windows.md
+        icon: clash-for-windows.png
+        updateDate: 2025-02-23
+      - name: Netch (Game/Special)
+        title: Netch (Game/Special) for Windows
+        path: en-US/windows/netch.md
+        icon: netch.png
+        updateDate: 2025-02-23
+---
 # Table of contents
 
 ## en-US

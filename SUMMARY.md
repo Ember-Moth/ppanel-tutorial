@@ -6,19 +6,19 @@ navigation:
       subItems:
         - title: v2rayN for Windows
           path: zh-CN/windows/v2rayn.md
-          icon: v2rayN.png
+          icon: zh-CN/windows/v2rayN.png
           updated_at: 2025-02-23
         - title: Clash Verge for Windows
           path: zh-CN/windows/clash-verge.md
-          icon: clash-verge.png
+          icon: zh-CN/windows/clash.png
           updated_at: 2025-02-23
         - title: Clash for Windows for Windows
           path: zh-CN/windows/clash-for-windows.md
-          icon: clash-for-windows.png
+          icon: zh-CN/windows/clash.png
           updated_at: 2025-02-23
         - title: Netch (游戏/特殊) for Windows
           path: zh-CN/windows/netch.md
-          icon: netch.png
+          icon: zh-CN/windows/netch.png
           updated_at: 2025-02-23
   en-US:
     - title: Windows
@@ -26,15 +26,15 @@ navigation:
       subItems:
         - title: Clash Verge
           path: en-US/windows/clash-verge.md
-          icon: clash-verge.png
+          icon: en-US/windows/clash.png
           updated_at: 2025-02-23
         - title: Clash for Windows
           path: en-US/windows/clash-for-windows.md
-          icon: clash-for-windows.png
+          icon: en-US/windows/clash.png
           updated_at: 2025-02-23
         - title: Netch (Game/Special)
           path: en-US/windows/netch.md
-          icon: netch.png
+          icon: en-US/windows/netch.png
           updated_at: 2025-02-23
 ---
 # Table of contents

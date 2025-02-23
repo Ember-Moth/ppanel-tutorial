@@ -26,6 +26,7 @@
 ## zh-CN
 
 * [Windows](zh-CN/windows/README.md)
+  * [v2rayN](zh-CN/windows/v2rayn.md)
   * [Clash Verge](zh-CN/windows/clash-verge.md)
   * [Clash for Windows](zh-CN/windows/clash-for-windows.md)
   * [Netch（游戏/特殊）](zh-CN/windows/netch.md)

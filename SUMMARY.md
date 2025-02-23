@@ -1,7 +1,7 @@
 ---
 navigation:
   zh-CN:
-    - Windows:
+    - title: Windows
       path: zh-CN/windows/README.md
       items:
         - title: v2rayN for Windows
@@ -21,7 +21,7 @@ navigation:
           icon: netch.png
           updateDate: 2025-02-23
   en-US:
-    - Windows:
+    - title: Windows
       path: en-US/windows/README.md
       items:
         - title: Clash Verge

@@ -105,11 +105,11 @@ zh-CN:
         updated_at: 2024-11-16
       - title: Clash Verge
         path: zh-CN/macos/clash-verge.md
-        icon: zh-CN/macos/clash.png
+        icon: zh-CN/windows/clash.png
         updated_at: 2024-11-16
       - title: ClashX Pro
         path: zh-CN/macos/clashx-pro.md
-        icon: zh-CN/macos/clash.png
+        icon: zh-CN/windows/clash.png
         updated_at: 2024-11-16
   - title: Android
     path: zh-CN/android/README.md
@@ -120,7 +120,7 @@ zh-CN:
         updated_at: 2024-11-16
       - title: Clash Meta for Android
         path: zh-CN/android/clash-meta-for-android.md
-        icon: zh-CN/android/clash.png
+        icon: zh-CN/windows/clash.png
         updated_at: 2024-11-16
       - title: Sing-Box
         path: zh-CN/android/sing-box.md
@@ -131,7 +131,7 @@ zh-CN:
     subItems:
       - title: Surge
         path: zh-CN/ios-ipados/surge.md
-        icon: zh-CN/ios-ipados/surge.png
+        icon: zh-CN/macos/surge.png
         updated_at: 2024-11-16
       - title: Shadowrocket
         path: zh-CN/ios-ipados/shadowrocket.md
@@ -143,7 +143,7 @@ zh-CN:
         updated_at: 2024-11-16
       - title: Sing-Box
         path: zh-CN/ios-ipados/sing-box.md
-        icon: zh-CN/ios-ipados/sing-box.png
+        icon: zh-CN/android/sing-box.png
         updated_at: 2024-11-16
       - title: Quantumult
         path: zh-CN/ios-ipados/quantumult.md

@@ -63,7 +63,7 @@ en-US:
         updated_at: 2024-11-16
       - title: QuantumultX
         path: en-US/ios-ipados/quantumultx.md
-        icon: zh-CN/ios-ipados/quantumultx.png
+        icon: zh-CN/ios-ipados/quantumult.png
         updated_at: 2024-11-16
       - title: Sing-Box
         path: en-US/ios-ipados/sing-box.md
@@ -139,7 +139,7 @@ zh-CN:
         updated_at: 2024-11-16
       - title: QuantumultX
         path: zh-CN/ios-ipados/quantumultx.md
-        icon: zh-CN/ios-ipados/quantumultx.png
+        icon: zh-CN/ios-ipados/quantumult.png
         updated_at: 2024-11-16
       - title: Sing-Box
         path: zh-CN/ios-ipados/sing-box.md

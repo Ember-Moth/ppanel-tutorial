@@ -1,4 +1,4 @@
-# Surge - 专业级 iOS 网络工具
+# Surge for iOS/iPadOS
 
 Surge 是一款功能强大的网络工具平台，不仅是一个代理工具，更是一个功能完整的网络调试工具。
 

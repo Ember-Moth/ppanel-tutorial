@@ -1,4 +1,4 @@
-# Surge - Professional iOS Network Toolkit
+# Surge for iOS/iPadOS
 
 Surge is a powerful network toolbox platform that serves not only as a proxy tool but also as a full-featured network debugging utility.
 

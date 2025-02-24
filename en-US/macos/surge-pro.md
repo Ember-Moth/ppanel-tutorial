@@ -1,6 +1,6 @@
-# Surge Pro
+# Surge for macOS
 
-[Surge Pro](https://nssurge.com/buy_now) is a powerful macOS network utility that supports multiple proxy protocols:
+[Surge for macOS](https://nssurge.com/buy_now) is a powerful macOS network utility that supports multiple proxy protocols:
 
 - Shadowsocks (SS)
 - V2Ray (VMess)

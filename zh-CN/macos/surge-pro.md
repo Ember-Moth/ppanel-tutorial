@@ -1,6 +1,6 @@
-# Surge Pro
+# Surge for macOS
 
-[Surge Pro](https://nssurge.com/buy_now) 是一款功能强大的 macOS 网络工具，支持多种代理协议：
+[Surge for macOS](https://nssurge.com/buy_now) 是一款功能强大的 macOS 网络工具，支持多种代理协议：
 
 - Shadowsocks (SS)
 - V2Ray (VMess)

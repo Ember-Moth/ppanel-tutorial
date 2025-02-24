@@ -15,10 +15,15 @@ Sing-box is a universal proxy tool developed in Go, featuring high performance a
 - **System Requirements**: iOS 15.0 or later
 - **Compatible Devices**: iPhone / iPad
 
-> ⚠️ **Important Notes**
+> ⚠️ **Notes**
 >
 > - This app is not available in the mainland China App Store
 > - Requires non-mainland China Apple ID for download
+
+> ⚠️ **Important Notice**
+
+- Please note that Sing-box for iOS is a paid software, you need to purchase it yourself
+- Please be aware that this is professional software. We only provide basic usage tutorials and cannot provide troubleshooting or advanced usage support. Your understanding is appreciated.
 
 ## Usage Guide
 

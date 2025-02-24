@@ -38,6 +38,10 @@ en-US:
   - title: Android
     path: zh-CN/android/README.md
     subItems:
+      - title: v2rayNG
+        path: en-US/android/v2rayng.md
+        icon: zh-CN/android/v2rayng.png
+        updated_at: 2025-02-23
       - title: Surfboard
         path: en-US/android/surfboard.md
         icon: zh-CN/android/surfboard.png
@@ -114,6 +118,10 @@ zh-CN:
   - title: Android
     path: zh-CN/android/README.md
     subItems:
+      - title: v2rayNG
+        path: en-US/android/v2rayng.md
+        icon: zh-CN/android/v2rayng.png
+        updated_at: 2025-02-23
       - title: Surfboard
         path: zh-CN/android/surfboard.md
         icon: zh-CN/android/surfboard.png
@@ -166,6 +174,7 @@ zh-CN:
   * [Clash Verge](en-US/macos/clash-verge.md)
   * [ClashX Pro](en-US/macos/clashx-pro.md)
 * [Android](en-US/android/README.md)
+  * [v2rayNG](en-US/android/v2rayng.md)
   * [Surfboard](en-US/android/surfboard.md)
   * [Clash Meta for Android](en-US/android/clash-meta-for-android.md)
   * [sing-box](en-US/android/sing-box.md)
@@ -190,6 +199,7 @@ zh-CN:
   * [Clash Verge](zh-CN/macos/clash-verge.md)
   * [ClashX Pro](zh-CN/macos/clashx-pro.md)
 * [Android](zh-CN/android/README.md)
+  * [v2rayNG](en-US/android/v2rayng.md)
   * [Surfboard](zh-CN/android/surfboard.md)
   * [Clash Meta for Android](zh-CN/android/clash-meta-for-android.md)
   * [Sing-Box](zh-CN/android/sing-box.md)

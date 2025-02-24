@@ -9,6 +9,14 @@
 - SOCKS5
 - SOCKS5 over TLS
 
+## Download
+
+[Download Address 1](https://clashxhub.com/apps/ClashXPro.dmg)
+
+[Download Address 2](https://dl.haojichang.com/apps/ClashX_Pro/ClashXPro.dmg)
+
+[Download Address 3](https://krakenfiles.com/view/5RdlIY2HKL/file.html)
+
 ## Requirements
 
 > ⚠️ System Requirements

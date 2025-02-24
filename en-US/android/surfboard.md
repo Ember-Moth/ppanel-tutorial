@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Surfboard](https://tagcloud.lanzoui.com/ifnU10daxxte) is an Android proxy tool with excellent performance and beautiful interface, fully compatible with Surge configurations.
+[Surfboard](https://github.com/getsurfboard/surfboard) is an Android proxy tool with excellent performance and beautiful interface, fully compatible with Surge configurations.
 
 ### Supported Protocols
 
@@ -17,6 +17,14 @@
 
 - Operating System: Android 9.0 and above
 - Applicable Devices: Android phones/tablets
+
+## Download
+
+[Download Address 1](https://git.886.be/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk)
+
+[Download Address 2](https://gh.xxooo.cf/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk)
+
+[Download Address 3](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk)
 
 ## Configuration Guide
 

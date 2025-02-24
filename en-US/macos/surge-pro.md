@@ -18,6 +18,11 @@
 - Software Version: Surge 3+ for macOS
 - Compatible Devices: MacBook / iMac / Mac Pro
 
+> ⚠️ Important Notes
+
+- Surge for macOS is a paid software, you need to purchase it yourself
+- This software is a professional software, we only provide basic usage tutorials, and cannot provide troubleshooting, advanced usage support, etc.
+
 ## Configuration Guide
 
 ### Import Configuration Steps

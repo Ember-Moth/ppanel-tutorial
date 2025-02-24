@@ -7,6 +7,14 @@
 - Windows 7 or above (32/64-bit)
 - Windows PC / Tablet
 
+## Download
+
+[Download Address 1](https://git.886.be/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z)
+
+[Download Address 2](https://gh.xxooo.cf/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z)
+
+[Download Address 3](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z)
+
 ## ⚠️ Important Notes
 >
 > - Although Netch claims to be designed for gaming, its underlying protocol is not specifically designed for games and may not meet high-performance gaming requirements

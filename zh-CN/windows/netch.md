@@ -1,11 +1,19 @@
 # Netch（游戏/特殊）
 
-[Netch](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) 是一款 Windows 平台的开源游戏加速工具，通过扫描游戏目录获得需要代理的进程名进行代理。
+[Netch](https://github.com/netchx/netch) 是一款 Windows 平台的开源游戏加速工具，通过扫描游戏目录获得需要代理的进程名进行代理。
 
 ## 系统要求
 
 - Windows 7 及以上（32/64-bit）
 - Windows PC / Tablet
+
+## 下载地址
+
+[下载地址1](https://git.886.be/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z)
+
+[下载地址2](https://gh.xxooo.cf/https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z)
+
+[下载地址3](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z)
 
 ## ⚠️ 重要提示
 >

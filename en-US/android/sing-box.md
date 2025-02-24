@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Sing-box](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) is a next-generation universal cross-platform proxy client software, supporting multiple platforms including iOS and Apple TV, completely free.
+[Sing-box](https://github.com/SagerNet/sing-box) is a next-generation universal cross-platform proxy client software, supporting multiple platforms including iOS and Apple TV, completely free.
 
 ### Key Features
 
@@ -22,6 +22,14 @@
 
 - Operating System: Android 5.0 and above
 - Applicable Devices: Android phones/tablets
+
+## Download
+
+[Download Address 1](https://git.886.be/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)
+
+[Download Address 2](https://gh.xxooo.cf/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)
+
+[Download Address 3](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)
 
 ## User Guide
 

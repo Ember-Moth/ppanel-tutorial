@@ -1,18 +1,18 @@
----
-title: v2rayN for Windows
-icon: v2rayN.png
-updateDate: 2025-02-23
-version: 6.60
-platform: windows
----
-
 # v2rayN for Windows
 
-[v2rayN](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip) 是在 Windows 系统上的图形客户端，支持多种代理协议（SS、SSR、Socks、Snell、V2Ray、Trojan 等）。
+[v2rayN](https://github.com/2dust/v2rayN) 是在 Windows 系统上的图形客户端，支持多种代理协议（SS、SSR、Socks、Snell、V2Ray、Trojan 等）。
 
 ## 系统要求
 
 - Windows 10 及以上（64-bit）
+
+## 下载地址
+
+[下载地址1](https://git.886.be/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip)
+
+[下载地址2](https://gh.xxooo.cf/https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip)
+
+[下载地址3](https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN.zip)
 
 ## 使用教程
 

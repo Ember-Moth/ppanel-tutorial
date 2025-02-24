@@ -2,7 +2,7 @@
 
 ## 简介
 
-[Surfboard](https://tagcloud.lanzoui.com/ifnU10daxxte) 是一款性能优秀、界面美观的安卓代理工具，完全兼容 Surge 配置。
+[Surfboard](https://github.com/getsurfboard/surfboard) 是一款性能优秀、界面美观的安卓代理工具，完全兼容 Surge 配置。
 
 ### 支持协议
 
@@ -17,6 +17,14 @@
 
 - 操作系统：Android 9.0 及以上
 - 适用设备：安卓手机/平板
+
+## 下载地址
+
+[下载地址1](https://git.886.be/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk)
+
+[下载地址2](https://gh.xxooo.cf/https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk)
+
+[下载地址3](https://github.com/getsurfboard/surfboard/releases/download/2.24.5/mobile-universal-release.apk)
 
 ## 配置教程
 

@@ -7,6 +7,14 @@
 - Windows XP or above (64-bit)
 - Windows PC / Tablet
 
+## Download
+
+[Download Address 1](https://git.886.be/https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)
+
+[Download Address 2](https://gh.xxooo.cf/https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)
+
+[Download Address 3](https://github.com/clashdownload/Clash_for_Windows/releases/download/0.20.39/Clash.for.Windows.Setup.0.20.39.exe)
+
 ## ⚠️ First Launch Notice
 >
 > Windows 10 users may see a security prompt on first launch. Please follow these steps:

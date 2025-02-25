@@ -1,6 +1,6 @@
 # Clash Verge
 
-[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) 是 Clash 内核的跨平台图形界面客户端，支持 Windows、Linux、macOS 系统，具有强大的分流规则功能。
+[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) 是 Clash 内核的跨平台图形界面客户端，支持 Windows、Linux、macOS 系统，具有强大的分流规则功能。
 
 ## 使用须知
 
@@ -9,6 +9,14 @@
 - 系统版本：macOS 10.5 或更高版本
 - 软件版本：Clash Verge for macOS
 - 适用设备：MacBook / iMac / Mac Pro
+
+## 下载地址
+
+[下载地址1](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
+
+[下载地址2](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
+
+[下载地址3](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
 
 ### 重要提示
 

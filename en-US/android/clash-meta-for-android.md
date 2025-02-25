@@ -2,7 +2,7 @@
 
 ## Product Introduction
 
-[Clash Meta for Android](https://tagcloud.lanzouw.com/io2u02b85x8d) is an Android proxy tool developed based on the Clash Meta project, featuring powerful functionality and stable performance.
+[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) is an Android proxy tool developed based on the Clash Meta project, featuring powerful functionality and stable performance.
 
 ### Supported Protocols
 
@@ -17,6 +17,16 @@
 
 - System Version: Android 7.0+
 - Applicable Devices: Android phones/tablets
+
+## Download
+
+[Download Address 1](https://git.886.be/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk)
+
+[Download Address 2](https://gh.xxooo.cf/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk)
+
+[Download Address 3](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/Prerelease-alpha/cmfa-2.11.6-alpha-universal-release.apk)
+
+[Download Address 4](https://tagcloud.lanzouw.com/i02u02b85x8d)
 
 ## User Guide
 

@@ -1,6 +1,6 @@
 # Clash Verge
 
-[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg) is a cross-platform GUI client for Clash kernel, supporting Windows, Linux, and macOS systems, with powerful traffic routing capabilities.
+[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) is a cross-platform GUI client for Clash kernel, supporting Windows, Linux, and macOS systems, with powerful traffic routing capabilities.
 
 ## Requirements
 
@@ -9,6 +9,16 @@
 - Operating System: macOS 10.5 or higher
 - Software Version: Clash Verge for macOS
 - Compatible Devices: MacBook / iMac / Mac Pro
+
+## Download
+
+[Download Address 1](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
+
+[Download Address 2](https://gh.xxooo.cf/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
+
+[Download Address 3](https://git.886.be/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.7.7/Clash.Verge_1.7.7_aarch64.dmg)
+
+
 
 ### Important Notice
 

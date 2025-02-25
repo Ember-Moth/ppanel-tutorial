@@ -1,4 +1,4 @@
-# Surge - Professional iOS Network Toolkit
+# Surge for iOS/iPadOS
 
 Surge is a powerful network toolbox platform that serves not only as a proxy tool but also as a full-featured network debugging utility.
 
@@ -16,11 +16,17 @@ Surge is a powerful network toolbox platform that serves not only as a proxy too
 - **Compatible Devices**: iPhone / iPad
 - **Software Version**: Surge 2/3/4/5
 
-> ⚠️ **Important Notes**
+> ⚠️ **Notes**
 >
 > - This app is not available in the mainland China App Store
 > - Requires non-mainland China Apple ID for download
 > - Does not support SSR protocol
+
+> ⚠️ **Important Notice**
+
+- Please note that Surge for iOS is a paid software that requires purchase, but it offers a 7-day trial
+- Please be aware that this is professional software. We only provide basic usage tutorials and cannot provide troubleshooting or advanced usage support. Your understanding is appreciated.
+
 
 ## Usage Guide
 

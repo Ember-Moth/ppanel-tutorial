@@ -9,6 +9,14 @@
 - SOCKS5
 - SOCKS5 over TLS
 
+## 下载地址
+
+[下载地址1](https://clashxhub.com/apps/ClashXPro.dmg)
+
+[下载地址2](https://dl.haojichang.com/apps/ClashX_Pro/ClashXPro.dmg)
+
+[下载地址3](https://krakenfiles.com/view/5RdlIY2HKL/file.html)
+
 ## 使用须知
 
 > ⚠️ 运行环境要求

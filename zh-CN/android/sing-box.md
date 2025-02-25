@@ -2,7 +2,7 @@
 
 ## 简介
 
-[Sing-box](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) 是新一代通用跨平台代理软件客户端，支持多平台且完全免费，包括 iOS 和 Apple TV。
+[Sing-box](https://github.com/SagerNet/sing-box) 是新一代通用跨平台代理软件客户端，支持多平台且完全免费，包括 iOS 和 Apple TV。
 
 ### 主要特点
 
@@ -22,6 +22,14 @@
 
 - 操作系统：Android 5.0 及以上
 - 适用设备：安卓手机/平板
+
+## 下载地址
+
+[下载地址1](https://git.886.be/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)
+
+[下载地址2](https://gh.xxooo.cf/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)
+
+[下载地址3](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk)
 
 ## 使用指南
 

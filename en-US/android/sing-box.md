@@ -503,4 +503,4 @@ A: Check points:
 
 ---
 
-> 📅 Last Updated: July 10, 2025 | 📦 Compatible Version: sing-box 1.10.1 (SFA)
+> 📅 Last Updated: August 31, 2025 | 📦 Compatible Version: sing-box 1.12.4 (SFA)

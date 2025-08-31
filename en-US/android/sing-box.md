@@ -53,11 +53,11 @@
 
 > 📌 **Version Note**: sing-box provides an Android version called SFA (sing-box for Android)
 
-| Download Source | Version | Filename |
-|----------------|---------|----------|
-| 🏠 GitHub Release | 1.10.1 | [SFA-1.10.1-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) |
-| 🚀 Mirror Accelerator 1 | 1.10.1 | [Accelerated Download](https://git.886.be/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) |
-| 🚀 Mirror Accelerator 2 | 1.10.1 | [Backup Link](https://gh.xxooo.cf/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) |
+| Download Source | Version | Filename                                                                                                            |
+|----------------|---------|---------------------------------------------------------------------------------------------------------------------|
+| 🏠 GitHub Release | 1.12.4  | [SFA-1.12.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.12.4/SFA-1.12.4-universal.apk) |
+| 🚀 Mirror Accelerator 1 | 1.12.4  | [Accelerated Download](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk) |
+| 🚀 Mirror Accelerator 2 | 1.12.4  | [Backup Link](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk)           |
 
 ### 🛠️ Installation Guide
 

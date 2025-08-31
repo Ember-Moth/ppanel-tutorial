@@ -53,11 +53,11 @@
 
 > 📌 **版本说明**：sing-box 提供 Android 版本叫做 SFA (sing-box for Android)
 
-| 下载源 | 版本 | 文件名 |
-|--------|------|--------|
-| 🏠 GitHub Release | 1.10.1 | [SFA-1.10.1-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) |
-| 🚀 镜像加速1 | 1.10.1 | [加速下载](https://git.886.be/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) |
-| 🚀 镜像加速2 | 1.10.1 | [备用链接](https://gh.xxooo.cf/https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-universal.apk) |
+| 下载源 | 版本     | 文件名                                                                                                                 |
+|--------|--------|---------------------------------------------------------------------------------------------------------------------|
+| 🏠 GitHub Release | 1.12.4 | [SFA-1.12.4-universal.apk](https://github.com/SagerNet/sing-box/releases/download/v1.12.4/SFA-1.12.4-universal.apk) |
+| 🚀 镜像加速1 | 1.12.4 | [加速下载](https://cdn.jsdmirror.com/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk)  |
+| 🚀 镜像加速2 | 1.12.4 | [备用链接](https://cdn.jsdmirror.cn/gh/GuantaoDonty/hub@main/singbox-Android/SFA-1.12.4-arm64-v8a.apk) |
 
 ### 🛠️ 安装指南
 
